@@ -47,6 +47,7 @@ ADSB:
     Paris: 'LFPG'
     Berlin: 'EDDB'
     Athens: 'LGAV'
+    Bergen: 'ENBR'
   INTERVAL_IN_SEC: 5
   TRAFFIC_TIMESPAN_IN_DAYS: 3
 
